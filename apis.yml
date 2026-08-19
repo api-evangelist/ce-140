@@ -36,7 +36,7 @@ x-domain-status: repurposed
 x-domain-note: 'https://siftery.com resolves to an unrelated casino-affiliate WordPress
   site as of 2026-07-20; it is not the recorded company and must not be treated as
   a provider surface.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
